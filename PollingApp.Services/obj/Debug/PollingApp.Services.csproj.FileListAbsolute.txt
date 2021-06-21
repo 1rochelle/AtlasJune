@@ -1,0 +1,2 @@
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Services\obj\Debug\PollingApp.Services.csprojAssemblyReference.cache
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Services\obj\Debug\PollingApp.Services.csproj.CoreCompileInputs.cache
