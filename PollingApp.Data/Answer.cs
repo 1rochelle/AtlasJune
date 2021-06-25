@@ -16,10 +16,12 @@ namespace PollingApp.Data
         [Required]
         [ForeignKey(nameof(Poll))]
         public int PollId { get; set; }
+        public Poll Poll { get; set; }
 
         [Required]
         [ForeignKey(nameof(Question))]
         public int QuestionId { get; set; }
+        public Question Question { get; set; }
 
         public enum AnswerType { BoolResponse, OnlyOneResponse, MultipleResponses}
 

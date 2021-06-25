@@ -55,11 +55,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Answer.cs" />
+    <Compile Include="ApplicationDbContext.Views.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Poll.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Question.cs" />
     <Compile Include="Taker.cs" />
+    <Compile Include="TakerResponse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

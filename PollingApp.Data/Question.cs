@@ -17,7 +17,7 @@ namespace PollingApp.Data
 
         public enum QuestionType { IsAnswerTrue, OnlyOneAnswer, MultipleAnswers}
 
-        public bool? IsAnswerTrue { get; set; }
+        public bool IsAnswerTrue { get; set; }
 
         //how to make a list nullable? or is it fine since it's not required?
         public List<string> OnlyOneAnswer { get; set; } = new List<string>();

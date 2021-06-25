@@ -1,2 +1,16 @@
 C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\obj\Debug\PollingApp.Data.csprojAssemblyReference.cache
 C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\obj\Debug\PollingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\PollingApp.Data.dll.config
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\PollingApp.Data.dll
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\PollingApp.Data.pdb
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\obj\Debug\PollingApp.Data.csproj.CopyComplete
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\obj\Debug\PollingApp.Data.dll
+C:\Users\rdeulley\source\repos\CompanyPollingApp\PollingApp.Data\obj\Debug\PollingApp.Data.pdb
